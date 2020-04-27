@@ -1,0 +1,13 @@
+C:\Development\csharp\simple-calculator\bin\Debug\netcoreapp3.1\simple-calculator.exe
+C:\Development\csharp\simple-calculator\bin\Debug\netcoreapp3.1\simple-calculator.deps.json
+C:\Development\csharp\simple-calculator\bin\Debug\netcoreapp3.1\simple-calculator.runtimeconfig.json
+C:\Development\csharp\simple-calculator\bin\Debug\netcoreapp3.1\simple-calculator.runtimeconfig.dev.json
+C:\Development\csharp\simple-calculator\bin\Debug\netcoreapp3.1\simple-calculator.dll
+C:\Development\csharp\simple-calculator\bin\Debug\netcoreapp3.1\simple-calculator.pdb
+C:\Development\csharp\simple-calculator\obj\Debug\netcoreapp3.1\simple-calculator.csprojAssemblyReference.cache
+C:\Development\csharp\simple-calculator\obj\Debug\netcoreapp3.1\simple-calculator.csproj.CoreCompileInputs.cache
+C:\Development\csharp\simple-calculator\obj\Debug\netcoreapp3.1\simple-calculator.AssemblyInfoInputs.cache
+C:\Development\csharp\simple-calculator\obj\Debug\netcoreapp3.1\simple-calculator.AssemblyInfo.cs
+C:\Development\csharp\simple-calculator\obj\Debug\netcoreapp3.1\simple-calculator.dll
+C:\Development\csharp\simple-calculator\obj\Debug\netcoreapp3.1\simple-calculator.pdb
+C:\Development\csharp\simple-calculator\obj\Debug\netcoreapp3.1\simple-calculator.genruntimeconfig.cache
